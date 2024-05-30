@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  This file is a ROR Sitemap for describing this website to the search engines. For details about the ROR format, go to www.rorweb.com.   -->
 <rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
 <channel>
   <title>ROR Sitemap for https://ratnesh-kumar-tiwari.github.io/Ratnesh.Tiwari/</title>
   <link>https://ratnesh-kumar-tiwari.github.io/Ratnesh.Tiwari/</link>
-  <item>
-    <title>ROR Sitemap for https://ratnesh-kumar-tiwari.github.io/Ratnesh.Tiwari/</title>
-    <link>https://ratnesh-kumar-tiwari.github.io/Ratnesh.Tiwari/</link>
-    <ror:about>sitemap</ror:about>
-    <ror:type>SiteMap</ror:type>
-  </item>
-  <item>
+
+<item>
      <link>https://ratnesh-kumar-tiwari.github.io/Ratnesh.Tiwari/</link>
-     <ror:updatePeriod>week</ror:updatePeriod>
+     <title>Ratnesh Tiwari Full Stack PHP Developer </title>
+     <description> Ratnesh TIwari Is a full stack PHP Web Developer Who have more than 1.5 years of experince while working as PHP web developer</description>
+     <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>0</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
-  </item>
+</item>
 </channel>
 </rss>
-
-
